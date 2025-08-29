@@ -1,0 +1,44 @@
+[
+    {
+        "certificate": "Meta Front-End Developer",
+        "issurer": "Coursera",
+        "year": "2025",
+        "url": "https://coursera.org/verify/professional-cert/META-FRONTEND"
+    },
+    {
+        "certificate": "Meta Back-End Developer",
+        "issurer": "Coursera",
+        "year": "2025",
+        "url": "https://coursera.org/verify/professional-cert/META-BACKEND"
+    },
+    {
+        "certificate": "Python for Everybody",
+        "issurer": "Coursera",
+        "year": "2024",
+        "url": "https://coursera.org/verify/specialization/PYTHON-EVERYBODY"
+    },
+    {
+        "certificate": "MikroTik Certified Network Associate",
+        "issurer": "Mikrotik",
+        "year": "2023",
+        "url": "https://mikrotik.com/certification"
+    },
+    {
+        "certificate": "Google Cybersecurity Professional",
+        "issurer": "Coursera",
+        "year": "2023",
+        "url": "https://coursera.org/verify/professional-cert/GOOGLE-CYBERSECURITY"
+    },
+    {
+        "certificate": "Codelab Web Development",
+        "issurer": "Codelab",
+        "year": "2023",
+        "url": "https://codelab.com/certificates"
+    },
+    {
+        "certificate": "IELTS",
+        "issurer": "British Council",
+        "year": "2025",
+        "url": "https://ielts.org/verify"
+    }
+]

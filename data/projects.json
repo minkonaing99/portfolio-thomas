@@ -1,0 +1,144 @@
+[
+    {
+        "project_title": "Student Management System",
+        "description": "Authentication, profile and database management, blogging.",
+        "photo_dir": "project_images/well_being_1.png",
+        "alt": "student management system",
+        "github_repo": "https://github.com/minkonaing99/student_management_system.git",
+        "showcase": [
+            "well_being_1.png",
+            "well_being_2.png",
+            "well_being_3.png",
+            "well_being_4.png",
+            "well_being_5.png",
+            "well_being_6.png",
+            "well_being_7.png",
+            "well_being_8.png",
+            "well_being_9.png",
+            "well_being_10.png"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "jQuery",
+            "Bootstrap",
+            "MySQL"
+        ]
+    },
+    {
+        "project_title": "Personal Expense Tracker",
+        "description": "Expense tracking with charts and income management.",
+        "photo_dir": "project_images/xpenses.png",
+        "alt": "personal expense tracker",
+        "github_repo": "https://github.com/minkonaing99/expense_tracker",
+        "showcase": [
+            "xpenses.png"
+        ],
+        "technologies": [
+            "JavaScript",
+            "HTML",
+            "Bootstrap",
+            "MySQL"
+        ]
+    },
+    {
+        "project_title": "Network Anomaly Detection",
+        "description": "Deep learning-based system for anomaly detection in network traffic.",
+        "photo_dir": "project_images/build-bot.png",
+        "alt": "network anomaly detection",
+        "technologies": [
+            "Python",
+            "Anaconda Notebook",
+            "TensorFlow",
+            "XGBoost"
+        ]
+    },
+    {
+        "project_title": "Portfolio Design",
+        "description": "Static portfolio design using HTML and CSS.",
+        "photo_dir": "project_images/portfolio_znisa.png",
+        "github_repo": "https://github.com/minkonaing99/znisa.git",
+        "alt": "portfolio design",
+        "showcase": [
+            "znisa.png"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Vercel"
+        ]
+    },
+    {
+        "project_title": "Telegram-Based Financial Bot",
+        "description": "Telegram bot automating transaction logging via screenshot recognition, storing data in DynamoDB and images in S3, hosted on EC2. Automated over 95% of daily data-entry workflow with real-time API accessibility.",
+        "photo_dir": "project_images/build-bot.png",
+        "alt": "telegram financial bot",
+        "technologies": [
+            "Python",
+            "MySQL",
+            "AWS EC2",
+            "AWS S3"
+        ]
+    },
+    {
+        "project_title": "Sales Management System + AI Insights",
+        "description": "Full-stack system to track, analyze, and visualize sales performance using PHP, JS, and Aurora SQL. Integrated Gemini AI for automated sales commentary and deployed Telegram bot for sales input, reducing manual reporting by 60%.",
+        "photo_dir": "project_images/dashboard_digimium.png",
+        "alt": "sales management ai insights",
+        "showcase": [
+            "dashboard_digimium.png",
+            "dashboard_digimium1.png",
+            "dashboard_digimium2.png",
+            "dashboard_digimium3.png",
+            "dashboard_digimium4.png"
+        ],
+        "technologies": [
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "MySQL",
+            "Gemini API",
+            "AWS EC2",
+            "Amazon Aurora"
+        ]
+    },
+    {
+        "project_title": "Sales Management System with Telegram Bot",
+        "description": "Sales recording system using AWS EC2, database integration, and Python-based Telegram bot for daily sales reminders and quick entries.",
+        "photo_dir": "project_images/build-bot.png",
+        "alt": "sales management system with telegram bot",
+        "showcase": [
+            "dashboard_digimium.png",
+            "dashboard_digimium1.png",
+            "dashboard_digimium2.png",
+            "dashboard_digimium3.png"
+        ],
+        "technologies": [
+            "MySQL",
+            "Amazon Aurora",
+            "AWS EC2",
+            "Python",
+            "Telegram Bot API"
+        ]
+    },
+    {
+        "project_title": "Digimium Website",
+        "description": "E-commerce website showcasing store items with animations. Includes admin panel for adding, editing, and deleting products, using JSON for data management.",
+        "photo_dir": "project_images/digimium.store.png",
+        "showcase": [
+            "digimium.store.png"
+        ],
+        "alt": "digimium ecommerce website",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "AWS EC2"
+        ]
+    }
+]

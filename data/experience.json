@@ -1,0 +1,41 @@
+[
+    {
+        "position": "Freelance Web Developer",
+        "company": "Self-Employed",
+        "duration": "May 2024 - Present",
+        "responsibilities": [
+            "Built websites focusing on responsive design and user-friendly interfaces.",
+            "Delivered 5+ client projects with full-stack architecture, AI integration, and cloud deployments."
+        ]
+    },
+    {
+        "position": "Web Content Upload Team (WordPress)",
+        "company": "GeoTek (Remote)",
+        "duration": "June 2025 - August 2025",
+        "responsibilities": [
+            "Designed WordPress layouts as practice assignments.",
+            "Practiced frontend development from Figma designs provided.",
+            "Conducted cold email database research for marketing purposes.",
+            "Uploaded and managed product content belonging to the company."
+        ]
+    },
+    {
+        "position": "Core Network Intern",
+        "company": "Global Technology Group",
+        "duration": "April 2024 - May 2024",
+        "responsibilities": [
+            "Gained practical understanding of organizational IT infrastructure and internal networking operations.",
+            "Assisted in configuring and handling networking devices such as routers, switches, and modems.",
+            "Learned and applied standard procedures for documenting network configurations and changes."
+        ]
+    },
+    {
+        "position": "Inventory Management",
+        "company": "New Sony Electric Store (Lashio)",
+        "duration": "December 2021 - March 2022",
+        "responsibilities": [
+            "Oversaw store inventory and stock levels, ensuring optimal levels for operational efficiency.",
+            "Created and maintained detailed daily reports, securely stored in digital format for easy access and reference."
+        ]
+    }
+]

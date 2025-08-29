@@ -173,13 +173,12 @@ function animateExperienceDisplay(years, months, days, timeDiff) {
       countdownElement.textContent = displayText;
       currentDay++;
 
-      // Calculate dynamic speed to finish in ~2 seconds
-      const progress = currentDay / totalDays; // 0 to 1
-      const totalDuration = 2000; // 2 seconds total
+      // Calculate dynamic speed to finish in ~0.8 seconds
+      const totalDuration = 300; // 0.8 seconds total
       const remainingSteps = totalDays - currentDay;
       const timePerStep =
-        remainingSteps > 0 ? (totalDuration * progress) / remainingSteps : 0;
-      const dynamicSpeed = Math.max(2, Math.min(100, timePerStep)); // Between 2ms and 100ms
+        remainingSteps > 0 ? totalDuration / remainingSteps : 0;
+      const dynamicSpeed = Math.max(1, Math.min(20, timePerStep)); // Between 1ms and 20ms
 
       setTimeout(animate, dynamicSpeed);
     }
@@ -904,7 +903,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Only run scroll animations on desktop devices
     if (window.innerWidth > 768) {
       // Scroll animations (fade, stagger, parallax) with IntersectionObserver
-      const options = { threshold: 0.2, rootMargin: "0px 0px -100px 0px" };
+      const options = { threshold: 0.2, rootMargin: "0px 0px -50px 0px" };
 
       const observer = new IntersectionObserver((entries) => {
         entries.forEach((entry, index) => {

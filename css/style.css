@@ -1469,6 +1469,7 @@ body.loaded {
     align-items: center;
     width: 100%;
     backdrop-filter: blur(10px);
+    margin-bottom: 2rem;
 }
 
 /* Experience Section */
@@ -3013,7 +3014,7 @@ img[loading="lazy"].loaded {
     }
 
     .showcase-container {
-        max-width: 100%;
+        width: 100%;
     }
 
     .showcase-images-wrapper {
@@ -3031,7 +3032,7 @@ img[loading="lazy"].loaded {
     }
 
     .modal-header h3 {
-        font-size: 1.2rem;
+        font-size: 1.0rem;
     }
 
     .modal-body {
@@ -3223,6 +3224,8 @@ img[loading="lazy"].loaded {
     color: var(--secondary-color);
 }
 
+
+
 /* Responsive Footer */
 @media (max-width: 768px) {
     .footer-section {
@@ -3295,10 +3298,11 @@ img[loading="lazy"].loaded {
 }
 
 .certificates-scroll-container {
-    padding: 2rem;
     position: relative;
     width: 100%;
     overflow: hidden;
+    z-index: 1;
+    padding: 0;
 }
 
 .certificates-track {
